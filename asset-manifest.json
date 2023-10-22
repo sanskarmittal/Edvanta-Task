@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Edvanta-Task/static/css/main.a0ea6016.css",
+    "main.js": "/Edvanta-Task/static/js/main.6c146bea.js",
+    "static/js/787.04f3436a.chunk.js": "/Edvanta-Task/static/js/787.04f3436a.chunk.js",
+    "index.html": "/Edvanta-Task/index.html",
+    "main.a0ea6016.css.map": "/Edvanta-Task/static/css/main.a0ea6016.css.map",
+    "main.6c146bea.js.map": "/Edvanta-Task/static/js/main.6c146bea.js.map",
+    "787.04f3436a.chunk.js.map": "/Edvanta-Task/static/js/787.04f3436a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0ea6016.css",
+    "static/js/main.6c146bea.js"
+  ]
+}
